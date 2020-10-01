@@ -1,0 +1,27 @@
+span{
+    color:black;
+    background-color:rgb(160, 29, 90);}
+    
+    .blueColor{
+        color:peru;
+        font-family:arial;
+        font-size:24px;
+    }
+
+    span.blueColor{
+        color:blue;
+        font-family:arial;
+        font-size:24px;
+    }
+
+    #specificColor{
+        color:blue;
+        font-family:verdana;
+        font-size:24px;
+    }
+
+    #specificLink{
+        color:red;
+        font-family:arial;
+        font-size:28px;
+    }
