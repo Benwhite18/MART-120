@@ -1,0 +1,16 @@
+function setup() {
+  createCanvas(400,400);
+}
+
+function draw() {
+  background(220);
+  circle(195,190,275);
+  circle(150,150,50);
+  circle(240,150,50);
+  triangle(190,190,200,185,225,200);
+  rect(145,225,100,25);
+  point(100,225)
+  point(300,225)
+  line(150,120,240,120);
+    text('Benjamin White',10,30);
+}
